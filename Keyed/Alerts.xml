@@ -5,7 +5,7 @@
 
   
   
-  <NeedSawmill>Serve Sega da banco</NeedSawmill>
+  <NeedSawmill>Serve una segheria</NeedSawmill>
   <NeedSawmillDesc>È necessario un qualche tipo di Sega per tagliare tronchi in tavole di legno.\n\nCostruisci una SEGA A MANO o una SEGA ELETTRICA.</NeedSawmillDesc>
 
   <PoorMood>Morale basso</PoorMood>
@@ -14,9 +14,9 @@
   <TerribleMoodDesc>Questi coloni sono criticamente stressati e possono avere una crisi - e potenzialmente violenta - in qualsiasi momento:\n\n{0}</TerribleMoodDesc>
   <LowMoodDescEnding>Controllare la scheda Necessità di questi coloni per vedere ciò che li preoccupa.</LowMoodDescEnding>
   
-  <ColonistNeedsRescue>Colone in pericolo</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Colone in pericolo</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Questi coloni sono inabili al suolo:\n\n{0}\nInviare un altro colono a salvarli e portarli di nuovo a letto.\n\n(Per salvare, selezionare un altro colono, quindi fare clic destro sulla vittima e selezionare Salva.)</ColonistsNeedRescueDesc>
+  <ColonistNeedsRescue>Colono in pericolo</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Colono in pericolo</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Questi coloni sono inabili al suolo:\n\n{0}\nInviare un altro colono a salvarli e portarli di nuovo a letto.\n\n(Per salvare, selezionare un altro colono, quindi fare clic destro sulla vittima e selezionare Salva.)</ColonistsNeedRescueDesc>
 
   <BuildARoom>Costruisci una stanza</BuildARoom>
   <BuildARoomDesc>Una stanza è composta da 4 pareti con una porta.\n\nUsa il menu ARCHITETTO in basso a sinistra dello schermo per indicare dove si vuole le cose costruite. Una volta che si designa qualcosa da costruire, i tuoi coloni faranno il lavoro quando possono.</BuildARoomDesc>
@@ -41,7 +41,7 @@
   <NoMedicineDesc>Non hai medicina in deposito.\n\nCompra altre medicine dai commercianti.</NoMedicineDesc>
   
   <NeedColonistBeds>Servono letti</NeedColonistBeds>
-  <NeedColonistBedsDesc>Hai più coloni che letti.A Qualcuno mancherà un posto per dormire.\n\nO creare più letti, o cambiare un letto prigioniero in un letto colono.\n\nSe non si hanno le risorse, i sacchi a pelo sono gratuiti e possono essere collocati immediatamente.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Hai più coloni che letti. A qualcuno mancherà un posto per dormire.\n\nO creare più letti, o cambiare un letto prigioniero in un letto colono.\n\nSe non si hanno le risorse, i sacchi a pelo sono gratuiti e possono essere collocati immediatamente.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Hunter serve arma</HunterLacksWeapon>
   <HunterLacksWeaponDesc>Un colono è assegnato come cacciatore, ma non ha alcuna arma. Essi non cacciano fino a quando non hanno un'arma.\n\nPer ridurre i danni, si consiglia di dare loro un'arma a distanza.</HunterLacksWeaponDesc>
@@ -86,7 +86,7 @@
   <NeedResearchProject>Serve una ricerca</NeedResearchProject>
   <NeedResearchProjectDesc>Avete l'attrezzatura per fare ricerca, ma non è stato selezionato alcun progetto.\n\nAprire il menu di ricerca e selezionare un progetto.</NeedResearchProjectDesc>
   
-  <NeedDump>Hai bisogno di discarica</NeedDump>
+  <NeedDump>Hai bisogno di una discarica</NeedDump>
   <NeedDumpDesc>Hai segnato {0} per essere trainato, ma i coloni non sanno dove depositarlo.\n\nDesignare una riserva e definirne le impostazioni di archiviazione per accettare {0}.</NeedDumpDesc>
 
   <!-- Removed
@@ -103,24 +103,24 @@
   -->
   
   <ColonistNeedsTreatment>Coloni servono trattmenti</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Questi coloni hanno bisogno di cure mediche. Senza di essa, possono morire, o le ferite possono diventare permanenti.\n\n{0}\nPer i trattmenti mandarli in un letto medico.\n\n(In primo luogo, assegnare un letto medico selezionandolo e commutando in un letto medico. Quindi, selezionare i coloni feriti e fare clic destro sul letto medico per farle un paziente.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Questi coloni hanno bisogno di cure mediche. Senza di esse, possono morire, o le ferite possono diventare permanenti.\n\n{0}\nPer i trattmenti mandarli in un letto medico.\n\n(In primo luogo, assegnare un letto medico selezionandolo e commutando in un letto medico. Quindi, selezionare i coloni feriti e fare clic destro sul letto medico per farle un paziente.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Ipotermia</AlertHypothermia>
-  <AlertHypothermiaDesc>Questi coloni sono affetti da ipotermia.\n\n{0}\nAssicurarsi che il loro abbigliamento è appropriato per la stagione e che gli spazi interni sono riscaldati correttamente.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Questi coloni sono affetti da ipotermia.\n\n{0}\nAssicurarsi che il loro abbigliamento sia appropriato per la stagione e che gli spazi interni siano riscaldati correttamente.</AlertHypothermiaDesc>
   
   <PatientsAwaitingMedicalOperation>{0} pazienti attendono operazione medica</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>Questi pazienti attendono un operazione medica:\n\n{0}\nAssicurarsi di avere tutti gli strumenti medici necessari e un medico è possibile.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Questi pazienti attendono un operazione medica:\n\n{0}\nAssicurarsi di avere tutti gli strumenti medici necessari e che un medico sia disponibile.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>Fuoco!</FireInHomeArea>
-  <FireInHomeAreaDesc>C'è fuoco nella colonia</FireInHomeAreaDesc>
+  <FireInHomeArea>A Fuoco!</FireInHomeArea>
+  <FireInHomeAreaDesc>C'è un incendio nella colonia</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Infezione grave</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Le persone sono a rischio di morte a causa della grave infezione:\n\n{0}\nAssicurarsi che ottengono il miglior cure possibili.
+  <PawnsWithLifeThreateningDiseaseDesc>Le persone sono a rischio di morte a causa della grave infezione:\n\n{0}\nAssicurarsi che ottengano le migliori cure possibili.
 </PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Le persone sono a rischio di morte a causa della grave infezione:\n\n{0}\nSe possibile, prendere in considerazione di amputare o sostituire gli arti infetti, al fine di mantenere in vita il colone.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Le persone sono a rischio di morte a causa della grave infezione:\n\n{0}\nSe possibile, prendere in considerazione di amputare o sostituire gli arti infetti, al fine di mantenere in vita il colono.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Billiardo serve spazio</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>Uno dei vostri tavoli da biliardo è adiacente ad un ostacolo che impedirà hai coloni di utilizzarlo.\n\nUn tavolo da biliardo ha bisogno di spazio libero attorno ad esso su tutti i lati per essere utilizzabile.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Biliardo serve spazio</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Uno dei vostri tavoli da biliardo è adiacente ad un ostacolo che impedirà ai coloni di utilizzarlo.\n\nIl tavolo da biliardo ha bisogno di spazio libero attorno ad esso su tutti i lati per essere utilizzabile.</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>Hunter ha scudo e arma a distanza</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>Uno dei vostri cacciatori sta usando un'arma a distanza e con indosso uno scudo personale che impedisce la caccia.\n\nEssi non saranno in grado di cacciare meno che lo scudo non venga rimosso.</HunterHasShieldAndRangedWeaponDesc>
